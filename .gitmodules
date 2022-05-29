@@ -1,0 +1,6 @@
+[submodule "chat-bot-ui"]
+	path = chat-bot-ui
+	url = https://github.com/kumar-kshitij/chat-bot-ui
+[submodule "sigabrt-chatbot"]
+	path = sigabrt-chatbot
+	url = https://github.com/jayantkishore/sigabrt-chatbot
