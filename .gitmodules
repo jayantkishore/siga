@@ -4,3 +4,6 @@
 [submodule "sigabrt-chatbot"]
 	path = sigabrt-chatbot
 	url = https://github.com/jayantkishore/sigabrt-chatbot
+[submodule "django-azure-demo"]
+	path = django-azure-demo
+	url = https://github.com/kumar-kshitij/django-azure-demo
